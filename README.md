@@ -3,4 +3,6 @@
 
 - create repository and initialize them with one command
 - init and push local project to github 
-- it's a time saver 
+- it's a time saver b
+
+- you need to add your github api token in order to use it
