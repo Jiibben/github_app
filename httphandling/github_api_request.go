@@ -7,7 +7,7 @@ import (
 	"net/http"
 )
 
-const TOKEN = "token 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"
+const TOKEN //token goes here
 
 var baseHeader map[string]string = map[string]string{
 	"Authorization": TOKEN,
